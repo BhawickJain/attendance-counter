@@ -5,7 +5,7 @@ import CopyrightNotice from "./components/CopyrightNotice";
 function App(): JSX.Element {
   return (
     <>
-      <AppHeader title={"meh"} />
+      <AppHeader title={"Attendance Tracker"} />
       <AttendanceTracker />
       <CopyrightNotice
         author={""}
